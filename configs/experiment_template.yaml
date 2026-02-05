@@ -1,0 +1,15 @@
+# Minimal experiment template (fill after run)
+dataset: data/raw/train.csv
+seed: 42
+model:
+  name: lightgbm
+  params:
+    n_estimators: 300
+    learning_rate: 0.05
+validation:
+  strategy: stratified_kfold
+  folds: 5
+metrics:
+  primary: rmse
+  secondary: r2
+notes: "Describe preprocessing and feature engineering here"

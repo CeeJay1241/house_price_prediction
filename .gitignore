@@ -1,0 +1,16 @@
+# Byte-compiled / env
+__pycache__/
+.venv/
+*.pyc
+
+# Data and models
+data/raw/
+data/processed/
+models/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db

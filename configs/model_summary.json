@@ -1,0 +1,22 @@
+{
+  "best_params": {
+    "model__max_depth": 17,
+    "model__max_features": "log2",
+    "model__n_estimators": 662
+  },
+  "test_metrics": {
+    "rmse": 0.5693512107586658,
+    "mae": 0.39482033616253076,
+    "r2": 0.7272775052870666
+  },
+  "top_features": [
+    "num__MedInc",
+    "num__Latitude",
+    "num__Longitude",
+    "num__AveOccup",
+    "num__AveRooms",
+    "num__HouseAge",
+    "num__AveBedrms",
+    "num__Population"
+  ]
+}

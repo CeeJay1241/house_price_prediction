@@ -1,0 +1,4 @@
+best_params: {}
+model_path: C:\Users\alimc\AppData\Local\Temp\pytest-of-alimc\pytest-0\test_ames_smoke_train0\smoke_pipeline.pkl
+model_type: rf
+n_features_in_: 36
