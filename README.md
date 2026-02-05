@@ -1,4 +1,4 @@
-# House Price Prediction — Resume Project
+# House Price Prediction
 
 Minimal, reproducible house-price regression project. Uses the California housing dataset for a runnable demo and includes helpers to download the Ames dataset from Kaggle (if you provide `kaggle.json`).
 
